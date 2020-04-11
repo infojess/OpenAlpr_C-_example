@@ -1,0 +1,7 @@
+C:\Users\Yisus\Documents\Visual Studio 2015\Projects\testPatentes\testPatentes3Consola\testPatentes3Consola\bin\x64\Debug\testPatentes3Consola.exe.config
+C:\Users\Yisus\Documents\Visual Studio 2015\Projects\testPatentes\testPatentes3Consola\testPatentes3Consola\bin\x64\Debug\testPatentes3Consola.exe
+C:\Users\Yisus\Documents\Visual Studio 2015\Projects\testPatentes\testPatentes3Consola\testPatentes3Consola\bin\x64\Debug\testPatentes3Consola.pdb
+C:\Users\Yisus\Documents\Visual Studio 2015\Projects\testPatentes\testPatentes3Consola\testPatentes3Consola\bin\x64\Debug\openalpr-net.dll
+C:\Users\Yisus\Documents\Visual Studio 2015\Projects\testPatentes\testPatentes3Consola\testPatentes3Consola\obj\x64\Debug\testPatentes3Consola.exe
+C:\Users\Yisus\Documents\Visual Studio 2015\Projects\testPatentes\testPatentes3Consola\testPatentes3Consola\obj\x64\Debug\testPatentes3Consola.pdb
+C:\Users\Yisus\Documents\Visual Studio 2015\Projects\testPatentes\testPatentes3Consola\testPatentes3Consola\obj\x64\Debug\testPatentes3Consola.csprojResolveAssemblyReference.cache
